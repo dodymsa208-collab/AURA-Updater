@@ -1,7 +1,11 @@
 {
-    "version": "2.0.1",
-    "url": "https://github.com/dodymsa208-collab/AURA-Updater/releases/download/v2.0.1/AURA_NEW.exe",
-    "force": false,
-    "maintenance": true,
-    "message": "this app is in devolper mode"
+  "version": "4.2",
+  "url": "https://github.com/dodymsa208-collab/AURA-Updater/releases/download/v4.2/AURA_NEW.exe",
+
+  "update_enabled": true,
+  "force_update": false,
+  "update_message": "New version available!",
+
+  "maintenance": false,
+  "maintenance_message": "The app is under maintenance. Please try again later."
 }
