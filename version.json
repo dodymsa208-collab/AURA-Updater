@@ -3,6 +3,6 @@
   "url": "https://github.com/dodymsa208-collab/AURA-Updater/releases/download/v4.2/AURA.exe",
   "force": false,
   "message": "",
-  "maintenance": true,
-  "maintenance_message": "this app is undedr maintenace"
+  "maintenance": false,
+  "maintenance_message": ""
 }
