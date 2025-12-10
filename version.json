@@ -2,7 +2,7 @@
   "version": "4.2",
   "url": "https://github.com/dodymsa208-collab/AURA-Updater/releases/download/v4.2/AURA.exe",
   "force": false,
-  "message": "New update available",
-  "maintenance": true,
-  "maintenance_message": "this app is under devolp mode soory"
+  "message": "",
+  "maintenance": false,
+  "maintenance_message": ""
 }
